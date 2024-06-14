@@ -1,2 +1,3 @@
 elasticsearch:8.11.3
 zilliz/attu:v2.3.5
+milvusdb/milvus:v2.4.1
