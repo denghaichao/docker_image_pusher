@@ -1,1 +1,2 @@
 elasticsearch:8.11.3
+zilliz/attu:v2.3.5
