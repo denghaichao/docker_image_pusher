@@ -3,4 +3,5 @@ zilliz/attu:v2.3.5
 milvusdb/milvus:v2.4.1
 onerahmet/openai-whisper-asr-webservice:latest
 onerahmet/openai-whisper-asr-webservice:latest-gpu
+zjunlp/deepke:latest
 
