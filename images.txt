@@ -4,4 +4,5 @@ milvusdb/milvus:v2.4.1
 onerahmet/openai-whisper-asr-webservice:latest
 onerahmet/openai-whisper-asr-webservice:latest-gpu
 zjunlp/deepke:latest
+polardbx/polardb-x
 
